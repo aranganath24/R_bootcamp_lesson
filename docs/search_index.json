@@ -1,5 +1,1 @@
-[
-["index.html", "YOUR TITLE HERE Chapter 1 Down the rabbit-hole", " YOUR TITLE HERE YOUR NAME HERE 2020-08-10 Chapter 1 Down the rabbit-hole "],
-["the-pool-of-tears.html", "Chapter 2 The pool of tears", " Chapter 2 The pool of tears "],
-["a-caucus-race-and-a-long-tale.html", "Chapter 3 A caucus-race and a long tale", " Chapter 3 A caucus-race and a long tale "]
-]
+[["index.html", "YOUR TITLE HERE Chapter 1 Introduction", " YOUR TITLE HERE YOUR NAME HERE 2022-12-06 Chapter 1 Introduction "],["a-tour-of-r-studio.html", "Chapter 2 A Tour of R Studio", " Chapter 2 A Tour of R Studio "],["main-lesson.html", "Chapter 3 Main lesson", " Chapter 3 Main lesson library(tidyverse) library(wosr) sid &lt;- auth(username=NULL, password=NULL) query &lt;- &#39;TS = (&quot;animal welfare&quot;) AND PY = (2002-2003)&#39; query_wos(query, sid = sid) ## Matching records: 543 "],["404.html", "Page not found", " Page not found The page you requested cannot be found (perhaps it was moved or renamed). You may want to try searching to find the page's new location, or use the table of contents to find the page you are looking for. "]]

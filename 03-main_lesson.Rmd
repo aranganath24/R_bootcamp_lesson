@@ -1,0 +1,40 @@
+# Main lesson
+
+
+```{r}
+library(tidyverse)
+library(wosr)
+```
+
+```{r}
+sid <- auth(username=NULL, password=NULL)
+```
+
+```{r}
+query <- 'TS = ("animal welfare") AND PY = (2002-2003)'
+```
+
+```{r, eval=T, cache=TRUE}
+query_wos(query, sid = sid)
+```
+
+
+```{r}
+democracy<-pull_wos(query, sid=sid)
+```
+
+
+
+documentation: [https://images.webofknowledge.com/images/help/WOS/hs_advanced_fieldtags.html](https://images.webofknowledge.com/images/help/WOS/hs_advanced_fieldtags.html)
+
+
+
+
+
+https://images.webofknowledge.com/images/help/WOS/hs_advanced_fieldtags.html
+
+
+
+
+
+
