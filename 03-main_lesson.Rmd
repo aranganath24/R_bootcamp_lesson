@@ -33,6 +33,19 @@ documentation: [https://images.webofknowledge.com/images/help/WOS/hs_advanced_fi
 
 https://images.webofknowledge.com/images/help/WOS/hs_advanced_fieldtags.html
 
+1. data objects
+2. functions
+3. iteration
+4. data transfer
+5. cleaning and preparing data
+6. data visualization and exploration
+7. data processing
+8. conclusion
+
+
+
+
+
 
 
 
